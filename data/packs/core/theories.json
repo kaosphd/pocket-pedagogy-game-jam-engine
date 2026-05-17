@@ -1,0 +1,44 @@
+[
+        {
+        "id": "systems_theory",
+        "name": "Systems Theory",
+        "description": "Behaviour emerges from interactions within interconnected systems rather than isolated parts.",
+        "tags": ["complexity", "emergence"]
+      },
+      {
+        "id": "game_theory",
+        "name": "Game Theory",
+        "description": "Strategic interaction where outcomes depend on the choices of multiple agents.",
+        "tags": ["strategy", "rationality"]
+      },
+      {
+        "id": "behavioral_economics",
+        "name": "Behavioural Economics",
+        "description": "Human decision-making is shaped by cognitive biases and heuristics under constraint.",
+        "tags": ["bias", "decision-making"]
+      },
+      {
+        "id": "complexity_theory",
+        "name": "Complexity Theory",
+        "description": "Small changes in systems can produce disproportionate and unpredictable effects.",
+        "tags": ["nonlinearity", "emergence"]
+      },
+      {
+        "id": "diffusion_of_innovation",
+        "name": "Diffusion of Innovation",
+        "description": "Ideas and behaviours spread through populations in patterned adoption curves.",
+        "tags": ["adoption", "networks"]
+      },
+      {
+        "id": "network_effects",
+        "name": "Network Effects",
+        "description": "The value of a system increases as more participants engage with it.",
+        "tags": ["networks", "value creation"]
+      },
+      {
+        "id": "activity_theory",
+        "name": "Activity Theory",
+        "description": "Human activity is shaped by tools, goals, and social context interacting as a system.",
+        "tags": ["learning", "mediation"]
+      }
+]

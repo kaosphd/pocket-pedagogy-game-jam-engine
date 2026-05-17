@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Effectuation Theory",
+    "description": "Entrepreneurship as starting from available means rather than predefined goals."
+  },
+  {
+    "name": "Lean Startup Logic",
+    "description": "Iterative hypothesis testing through rapid experimentation and feedback loops."
+  },
+  {
+    "name": "Opportunity Cost Theory",
+    "description": "Every decision implies the loss of alternative possibilities."
+  },
+  {
+    "name": "Complex Adaptive Systems",
+    "description": "Entrepreneurial environments as dynamic systems with emergent behaviour."
+  },
+  {
+    "name": "Behavioral Economics",
+    "description": "Decision-making shaped by cognitive bias, heuristics, and bounded rationality."
+  },
+  {
+    "name": "Network Effects",
+    "description": "Value increasing as more participants join or interact within a system."
+  }
+]

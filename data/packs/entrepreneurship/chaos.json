@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Market Shift",
+    "description": "External conditions suddenly change; assumptions must be re-evaluated."
+  },
+  {
+    "name": "Resource Withdrawal",
+    "description": "A key resource or support is removed mid-process."
+  },
+  {
+    "name": "Stakeholder Conflict Event",
+    "description": "A new conflicting priority emerges from a stakeholder group."
+  },
+  {
+    "name": "Regulatory Constraint",
+    "description": "New rule or limitation affects previously valid strategies."
+  },
+  {
+    "name": "Information Asymmetry Spike",
+    "description": "Some teams receive additional hidden information; others do not."
+  },
+  {
+    "name": "Time Compression",
+    "description": "Deadlines are unexpectedly shortened."
+  },
+  {
+    "name": "Investor Pullout",
+    "description": "Your primary funding source disappears unexpectedly."
+  },
+  {
+    "name": "Market Pivot",
+    "description": "Your target audience suddenly changes."
+  },
+  {
+    "name": "Regulatory Shock",
+    "description": "New regulations restrict your original design."
+  },
+  {
+    "name": "Team Conflict",
+    "description": "Internal disagreements disrupt decision-making."
+  },
+  {
+    "name": "Viral Success",
+    "description": "Unexpected popularity creates scaling problems."
+  }
+
+]

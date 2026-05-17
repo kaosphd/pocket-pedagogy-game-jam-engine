@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Startup Simulation",
+    "description": "Players simulate building a venture in a structured but uncertain environment."
+  },
+  {
+    "name": "Pitch Arena",
+    "description": "Competitive or collaborative idea pitching under constraint conditions."
+  },
+  {
+    "name": "Resource Trading Game",
+    "description": "Participants exchange assets, information, or influence."
+  },
+  {
+    "name": "Cooperative Venture Lab",
+    "description": "Teams collaborate to design and refine a shared concept."
+  },
+  {
+    "name": "Scenario Planning Game",
+    "description": "Participants respond to evolving future-world scenarios."
+  }
+]

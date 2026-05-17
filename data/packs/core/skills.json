@@ -1,0 +1,44 @@
+[
+    {
+        "id": "systems_thinking",
+        "name": "Systems Thinking",
+        "description": "Understanding how components interact within a whole system and produce emergent outcomes.",
+        "tags": ["cognition", "complexity", "decision-making"]
+      },
+      {
+        "id": "prioritisation",
+        "name": "Prioritisation Under Constraint",
+        "description": "Deciding what matters most when resources, time, or attention are limited.",
+        "tags": ["executive function", "pressure"]
+      },
+      {
+        "id": "strategic_communication",
+        "name": "Strategic Communication",
+        "description": "Adapting messaging to influence outcomes across different audiences and contexts.",
+        "tags": ["social cognition", "persuasion"]
+      },
+      {
+        "id": "resource_allocation",
+        "name": "Resource Allocation",
+        "description": "Distributing limited assets effectively to achieve desired outcomes.",
+        "tags": ["economics", "systems"]
+      },
+      {
+        "id": "collaboration",
+        "name": "Collaborative Coordination",
+        "description": "Aligning multiple actors toward shared or negotiated goals.",
+        "tags": ["group dynamics", "teamwork"]
+      },
+      {
+        "id": "decision_making_under_pressure",
+        "name": "Decision-Making Under Pressure",
+        "description": "Making effective choices in time-sensitive or uncertain environments.",
+        "tags": ["risk", "stress", "judgement"]
+      },
+      {
+        "id": "adaptive_reasoning",
+        "name": "Adaptive Reasoning",
+        "description": "Adjusting thinking strategies in response to new information or changing conditions.",
+        "tags": ["flexibility", "learning"]
+      }
+]

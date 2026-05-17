@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Opportunity Recognition",
+    "description": "Identifying potential value in ambiguous or incomplete environments, often before it is obvious to others."
+  },
+  {
+    "name": "Problem Framing",
+    "description": "Reinterpreting messy situations into actionable and solvable questions."
+  },
+  {
+    "name": "Resource Recombination",
+    "description": "Using limited or unrelated resources in novel ways to create value."
+  },
+  {
+    "name": "Stakeholder Negotiation",
+    "description": "Balancing competing needs, incentives, and power dynamics in collaborative environments."
+  },
+  {
+    "name": "Iterative Decision-Making",
+    "description": "Making decisions under uncertainty and refining them based on feedback loops."
+  },
+  {
+    "name": "Value Proposition Design",
+    "description": "Structuring offerings so that perceived value aligns with user needs and constraints."
+  },
+  {
+    "name": "Risk Interpretation",
+    "description": "Understanding, communicating, and acting under uncertainty rather than eliminating it."
+  }
+]

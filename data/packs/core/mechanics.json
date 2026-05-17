@@ -1,0 +1,44 @@
+[
+        {
+        "id": "resource_scarcity",
+        "name": "Resource Scarcity",
+        "description": "Limited availability of key inputs forces prioritisation and trade-offs.",
+        "tags": ["constraint", "economy"]
+      },
+      {
+        "id": "hidden_information",
+        "name": "Hidden Information",
+        "description": "Players act without full knowledge, requiring inference and risk management.",
+        "tags": ["uncertainty"]
+      },
+      {
+        "id": "action_economy",
+        "name": "Action Economy",
+        "description": "Each participant has a limited number of actions per cycle or turn.",
+        "tags": ["turn-based", "strategy"]
+      },
+      {
+        "id": "push_your_luck",
+        "name": "Push Your Luck",
+        "description": "Risk-reward structure where greater gains increase probability of failure.",
+        "tags": ["risk", "probability"]
+      },
+      {
+        "id": "drafting",
+        "name": "Drafting",
+        "description": "Participants select from shared pools of options sequentially.",
+        "tags": ["selection", "competition"]
+      },
+      {
+        "id": "role_specialisation",
+        "name": "Role Specialisation",
+        "description": "Different participants have asymmetric abilities or responsibilities.",
+        "tags": ["asymmetry", "collaboration"]
+      },
+      {
+        "id": "time_pressure",
+        "name": "Time Pressure",
+        "description": "Decisions must be made within strict temporal constraints.",
+        "tags": ["urgency", "stress"]
+      }
+]
