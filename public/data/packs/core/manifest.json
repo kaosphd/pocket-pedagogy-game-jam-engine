@@ -1,0 +1,36 @@
+[
+  {
+    "id": "core",
+    "label": "Core Facilitation Engine",
+    "description": "Foundational transferable competencies and game design structures for experiential learning.",
+    "version": "1.0.0",
+  
+    "categories": {
+      "skills": {
+        "label": "Core Skills",
+        "description": "Transferable human capabilities used across domains.",
+        "required": true
+      },
+      "theories": {
+        "label": "Core Theories",
+        "description": "Conceptual lenses for interpreting systems and behaviour.",
+        "required": true
+      },
+      "mechanics": {
+        "label": "Core Mechanics",
+        "description": "Procedural structures that shape interaction.",
+        "required": true
+      },
+      "gameTypes": {
+        "label": "Core Game Types",
+        "description": "Formats of experiential delivery.",
+        "required": true
+      },
+      "chaos": {
+        "label": "Core Chaos Layer",
+        "description": "Facilitation disruptions and constraint injection.",
+        "required": false
+      }
+    }
+  }
+]

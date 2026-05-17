@@ -1,0 +1,44 @@
+[
+      {
+      "id": "new_constraint",
+      "name": "New Constraint Introduced",
+      "description": "A previously unknown limitation is added mid-session.",
+      "tags": ["adaptation"]
+    },
+    {
+      "id": "communication_breakdown",
+      "name": "Communication Breakdown",
+      "description": "Information flow between participants becomes restricted or distorted.",
+      "tags": ["coordination failure"]
+    },
+    {
+      "id": "resource_shock",
+      "name": "Resource Shock",
+      "description": "Sudden increase or reduction in available resources.",
+      "tags": ["economy disruption"]
+    },
+    {
+      "id": "role_reversal",
+      "name": "Role Reversal",
+      "description": "Participants swap roles or responsibilities mid-task.",
+      "tags": ["perspective shift"]
+    },
+    {
+      "id": "external_stakeholder",
+      "name": "External Stakeholder Intervention",
+      "description": "An outside agent changes priorities or imposes new demands.",
+      "tags": ["systems pressure"]
+    },
+    {
+      "id": "rule_mutation",
+      "name": "Rule Mutation",
+      "description": "Core rules of the activity change during execution.",
+      "tags": ["uncertainty", "emergence"]
+    },
+    {
+      "id": "information_asymmetry_shift",
+      "name": "Information Shift",
+      "description": "Previously hidden or known information changes distribution.",
+      "tags": ["uncertainty"]
+    }
+  ]

@@ -1,0 +1,44 @@
+[
+        {
+        "id": "cooperative_game",
+        "name": "Cooperative Game",
+        "description": "Participants work together toward a shared objective.",
+        "tags": ["collaboration"]
+      },
+      {
+        "id": "competitive_game",
+        "name": "Competitive Game",
+        "description": "Participants compete for resources, status, or outcomes.",
+        "tags": ["competition"]
+      },
+      {
+        "id": "simulation",
+        "name": "Simulation",
+        "description": "A structured model of real-world systems and constraints.",
+        "tags": ["authenticity"]
+      },
+      {
+        "id": "roleplaying_experience",
+        "name": "Roleplaying Experience",
+        "description": "Participants embody roles within a structured scenario.",
+        "tags": ["embodiment", "perspective"]
+      },
+      {
+        "id": "negotiation_game",
+        "name": "Negotiation Game",
+        "description": "Outcomes are determined through structured bargaining.",
+        "tags": ["communication", "strategy"]
+      },
+      {
+        "id": "escape_room",
+        "name": "Escape Room Format",
+        "description": "Problem-solving under constraint to achieve a goal within limits.",
+        "tags": ["puzzle", "pressure"]
+      },
+      {
+        "id": "design_challenge",
+        "name": "Design Challenge",
+        "description": "Participants create solutions to open-ended problems.",
+        "tags": ["creativity", "problem-solving"]
+      }
+    ]

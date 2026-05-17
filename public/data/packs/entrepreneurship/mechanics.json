@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Resource Scarcity",
+    "description": "Participants must operate under limited time, money, or information."
+  },
+  {
+    "name": "Hidden Information",
+    "description": "Not all variables are known; learners must act under uncertainty."
+  },
+  {
+    "name": "Timed Iteration Cycles",
+    "description": "Work occurs in rapid cycles of build → test → reflect."
+  },
+  {
+    "name": "Negotiation Economy",
+    "description": "Value is created through exchange rather than fixed reward structures."
+  },
+  {
+    "name": "Constraint Transformation",
+    "description": "Constraints become generative design inputs rather than limitations."
+  },
+  {
+    "name": "Asymmetric Roles",
+    "description": "Different participants have unequal information or power."
+  }
+]

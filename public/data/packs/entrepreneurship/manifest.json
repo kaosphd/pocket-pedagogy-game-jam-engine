@@ -1,0 +1,13 @@
+{
+    "id": "entrepreneurship",
+    "label": "Entrepreneurship Studio",
+    "version": "1.0",
+    "description": "Experiential learning prompts for entrepreneurial thinking, uncertainty, and opportunity design",
+    "modules": [
+      "skills",
+      "theories",
+      "mechanics",
+      "gameTypes",
+      "chaos"
+    ]
+  }
